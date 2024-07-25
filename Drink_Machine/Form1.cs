@@ -16,5 +16,20 @@ namespace Drink_Machine
         {
             InitializeComponent();
         }
+
+        private void add_btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void delete_btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void update_btn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
